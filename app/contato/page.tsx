@@ -28,7 +28,7 @@ export default function ContatoPage() {
             </p>
             <div className="space-y-2 text-sm text-slate-600">
               <p>📧 krispin532@gmail.com</p>
-              <p>📍 São Paulo, Brasil</p>
+              <p>📍 Pernambuco, Brasil</p>
             </div>
           </div>
 
